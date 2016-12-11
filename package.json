@@ -1,0 +1,22 @@
+{
+  "name": "christmas-p5",
+  "version": "1.0.0",
+  "description": "HTML5 Graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHelar/Christmas.git"
+  },
+  "author": "John Larsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JHelar/Christmas/issues"
+  },
+  "homepage": "https://github.com/JHelar/Christmas#readme",
+  "devDependencies": {
+    "p5": "^0.5.5"
+  }
+}
